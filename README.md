@@ -59,6 +59,8 @@ git clone https://github.com/your-username/learning-journal.git
 <img width="1135" height="945" alt="image" src="https://github.com/user-attachments/assets/f79c624e-f16b-4ee3-aab0-700bbba4afc0" />
 <img width="1135" height="520" alt="image" src="https://github.com/user-attachments/assets/827d2df9-5ef6-459e-9300-fbceee01ba96" />
 
+<img width="1133" height="940" alt="image" src="https://github.com/user-attachments/assets/5a6e0360-971e-4506-baff-b0fc3238de56" />
+
 ---
 
 ## 🎯 What I Learned
