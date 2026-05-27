@@ -37,7 +37,8 @@ learning-journal/
 │   └── style.css
 ├── images/
 └── README.md
-
+```
+--
 ---
 
 ## 🚀 Getting Started
