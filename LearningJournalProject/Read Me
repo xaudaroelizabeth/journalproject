@@ -1,21 +1,79 @@
-test edit for exersie #1 on Scrimba lesson Code Reviews/ Pulling/ Exercise #1 
+# 📖 My Learning Journal
 
-# Getting Started
-Install the dependencies and run the project
+A responsive multi-page blog-style website built with HTML and CSS that showcases a personal learning journey as a frontend developer. The project includes a homepage, blog post previews, and navigation between pages.
+
+---
+
+## ✨ Features
+
+- Multi-page website (Home, About, Blog pages)
+- Responsive layout for desktop and mobile
+- Blog post preview grid
+- Hero section highlighting latest post
+- Clean navigation header and footer
+- Custom typography using Google Fonts
+- Accessible image alt text for better usability
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- Google Fonts
+- Responsive Design Principles
+
+---
+
+## 📁 Project Structure
+
+```txt
+learning-journal/
+│
+├── index.html
+├── about.html
+├── blog.html
+├── css/
+│   └── style.css
+├── images/
+└── README.md
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/learning-journal.git
 ```
-npm install
-npm start
-```
+2. Open the project folder
+3. Open index.html in your browser
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+---
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+##📸 Preview
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Happy Coding!
+
+##🎯 What I Learned
+-Structuring multi-page HTML websites
+-Creating reusable layout components (header/footer)
+-Responsive design fundamentals
+-Working with images and typography
+-Improving semantic HTML structure
+
+🔮 Future Improvements
+-Make fully mobile-first responsive design
+-Add JavaScript for dynamic blog posts
+-Convert to a CMS-style structure
+-Improve accessibility (ARIA roles, better navigation)
+-Add dark mode
+
+##📄 License
+
+This project is for educational and portfolio purposes.
+
+
+##👓📚  Part of my frontend learning journey.
