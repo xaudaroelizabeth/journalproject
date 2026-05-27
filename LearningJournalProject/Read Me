@@ -56,6 +56,7 @@ git clone https://github.com/your-username/learning-journal.git
 ##📸 Preview
 
 
+---
 
 ##🎯 What I Learned
 -Structuring multi-page HTML websites
@@ -64,6 +65,8 @@ git clone https://github.com/your-username/learning-journal.git
 -Working with images and typography
 -Improving semantic HTML structure
 
+ ---
+
 🔮 Future Improvements
 -Make fully mobile-first responsive design
 -Add JavaScript for dynamic blog posts
@@ -71,9 +74,11 @@ git clone https://github.com/your-username/learning-journal.git
 -Improve accessibility (ARIA roles, better navigation)
 -Add dark mode
 
+ ---
+
 ##📄 License
 
 This project is for educational and portfolio purposes.
 
 
-##👓📚  Part of my frontend learning journey.
+## 👓📚  Part of my frontend learning journey.
