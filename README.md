@@ -54,12 +54,15 @@ git clone https://github.com/your-username/learning-journal.git
 
 ---
 
-##📸 Preview
+## 📸 Preview
+
+<img width="1135" height="945" alt="image" src="https://github.com/user-attachments/assets/f79c624e-f16b-4ee3-aab0-700bbba4afc0" />
+<img width="1137" height="827" alt="image" src="https://github.com/user-attachments/assets/abc3117e-3a10-41b4-b4ab-c1b4d6c1d5eb" />
 
 
 ---
 
-##🎯 What I Learned
+## 🎯 What I Learned
 -Structuring multi-page HTML websites
 -Creating reusable layout components (header/footer)
 -Responsive design fundamentals
@@ -68,7 +71,7 @@ git clone https://github.com/your-username/learning-journal.git
 
  ---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 -Make fully mobile-first responsive design
 -Add JavaScript for dynamic blog posts
 -Convert to a CMS-style structure
@@ -77,7 +80,7 @@ git clone https://github.com/your-username/learning-journal.git
 
  ---
 
-##📄 License
+## 📄 License
 
 This project is for educational and portfolio purposes.
 
